@@ -3,11 +3,12 @@
 Location: Zagreb, Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
 
 🔭 I’m currently working on:
-* Top-notch Angular application testing materials and providing consulting services
+* Top-notch Angular application testing materials 
+* Providing Angular training and consulting services
 
 📫 How to reach me:
 * Personal Site: [All Things Angular](https://allthingsangular.com/)
-* LinkedIn: [LinkedIn](linkedin.com/in/dalibor-plavcic)
+* LinkedIn: [LinkedIn](https://linkedin.com/in/dalibor-plavcic)
 
 🌱 Open source contribution:
 * [https://github.com/elastic/beats](Elastic/Beats)
