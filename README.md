@@ -9,6 +9,7 @@ Location: Zagreb, Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/tim
 📫 How to reach me:
 * Personal Site: [All Things Angular](https://allthingsangular.com/)
 * LinkedIn: [LinkedIn](https://linkedin.com/in/dalibor-plavcic)
+* dev.to [dev.to](https://dev.to/dplavcic)
 
 🌱 Open source contribution:
 * [https://github.com/elastic/beats](Elastic/Beats)
