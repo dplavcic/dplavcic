@@ -3,8 +3,8 @@
 Location: Zagreb, Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
 
 🔭 I’m currently working on:
-* Top-notch Angular application testing materials 
-* Providing Angular training and consulting services
+* [Top-notch Angular application testing materials](https://allthingsangular.com/)
+* [Providing Angular training and consulting services](https://allthingsangular.com/)
 
 📫 How to reach me:
 * Personal Site: [All Things Angular](https://allthingsangular.com/)
