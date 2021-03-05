@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Location: Zagreb, Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
+
+🔭 I’m currently working on:
+* Top-notch Angular application testing materials and providing consulting services
+
+📫 How to reach me:
+* Personal Site: [All Things Angular](https://allthingsangular.com/)
+* LinkedIn: [LinkedIn](linkedin.com/in/dalibor-plavcic)
+
+🌱 Open source contribution:
+* [https://github.com/elastic/beats](Elastic/Beats)
+* [https://github.com/jenkinsci/jenkins](Jenkins)
+
 <!--
 **dplavcic/dplavcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
