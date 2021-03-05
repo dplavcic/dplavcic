@@ -19,6 +19,9 @@ Location: Zagreb, Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/tim
 💻 Stack:
 * Angular / JS / Java / Go / Spring Framework / Spring Boot 
 
+🔬 Research interest
+* Web Application Security
+
 <!--
 **dplavcic/dplavcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
