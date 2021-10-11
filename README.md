@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-Location: Zagreb, Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
+Location: Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
 
 
 📫 How to reach me:
-* Personal Site: [All Things Angular](https://allthingsangular.com/)
 * LinkedIn: [@daliborp](https://linkedin.com/in/dalibor-plavcic)
 * StackOverflow: [@daliborp](https://stackoverflow.com/users/5521421/daliborp)
-* Dev.to: [@daliborp](https://dev.to/dplavcic)
+* Personal Site: [All Things Angular](https://allthingsangular.com/)
 
 🌱 Open source contribution:
 * [https://github.com/elastic/beats](Elastic/Beats)
