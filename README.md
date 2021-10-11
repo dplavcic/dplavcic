@@ -2,9 +2,6 @@
 
 Location: Zagreb, Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
 
-🔭 I’m currently working on:
-* [Top-notch Angular application testing materials](https://allthingsangular.com/courses/)
-* [Providing Angular training and consulting services](https://allthingsangular.com/about/)
 
 📫 How to reach me:
 * Personal Site: [All Things Angular](https://allthingsangular.com/)
@@ -18,7 +15,8 @@ Location: Zagreb, Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/tim
 
 <!--
 💻 Stack:
-* Angular / JS / Java / Go / Spring Framework / Spring Boot 
+* Go / Java / JS
+* Spring / Spring Boot / Angular
 
 🔬 Research interest
 * Web Application Security
