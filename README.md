@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Location: Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
-
+🌱 Open source contribution:
+* [https://github.com/elastic/beats](Elastic/Beats)
+* [https://github.com/jenkinsci/jenkins](Jenkins)
 
 📫 How to reach me:
 * LinkedIn: [@daliborp](https://linkedin.com/in/dalibor-plavcic)
 * StackOverflow: [@daliborp](https://stackoverflow.com/users/5521421/daliborp)
+* dev.to: [@b0r](https://dev.to/b0r)
 * Personal Site: [All Things Angular](https://allthingsangular.com/)
 
-🌱 Open source contribution:
-* [https://github.com/elastic/beats](Elastic/Beats)
-* [https://github.com/jenkinsci/jenkins](Jenkins)
+Location: Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
 
 <!--
 💻 Stack:
