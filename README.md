@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-Helping companies build serverless applications 
-Java | Spring | Angular | AWS | TDD | DDD | Senior Softwar Engineer
+I'm helping companies build serverless applications.
+
+Java | Spring | Angular | AWS | TDD | DDD | Senior Softwar Engineer | Serverless Advocate
+
 
 🌱 Open source contribution:
 * [https://github.com/elastic/beats](Elastic/Beats)
@@ -37,5 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Profile picture: <a href="https://www.freepik.com/vectors/people">People vector created by pikisuperstar - www.freepik.com</a>
