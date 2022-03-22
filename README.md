@@ -2,7 +2,7 @@
 
 Helping companies build serverless applications.
 
-Java | Spring | Angular | AWS | TDD | DDD | Senior Softwar Engineer | Serverless Advocate
+Java | Go | Spring | Angular | AWS | TDD | DDD | Senior Softwar Engineer | Serverless Advocate
 
 **Check out [ServerlessJava.io](https://sererlessjava.io/)**, a place devoted to bring serverless to enterprise java developers!
 
