@@ -1,8 +1,10 @@
-### Hi there 👋
+### 👋 About 
 
-I'm helping companies build serverless applications.
+Helping companies build serverless applications.
 
 Java | Spring | Angular | AWS | TDD | DDD | Senior Softwar Engineer | Serverless Advocate
+
+**Check out [ServerlessJava.io](https://sererlessjava.io/)**, a place devoted to bring serverless to enterprise java developers!
 
 
 🌱 Open source contribution:
