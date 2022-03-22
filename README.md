@@ -8,14 +8,15 @@
 * LinkedIn: [@daliborp](https://linkedin.com/in/dalibor-plavcic)
 * StackOverflow: [@daliborp](https://stackoverflow.com/users/5521421/daliborp)
 * dev.to: [@b0r](https://dev.to/b0r)
-* Personal Site: [All Things Angular](https://allthingsangular.com/)
+* Personal Site: [ServerlessJava.io](https://sererlessjava.io/)
 
-Location: Croatia (EU). Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
+Location: EU. Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
 
 <!--
 💻 Stack:
-* Go / Java / JS
+* Java / JavaScript
 * Spring / Spring Boot / Angular
+* AWS
 
 🔬 Research interest
 * Web Application Security
