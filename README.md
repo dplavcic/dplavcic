@@ -1,6 +1,6 @@
 ### 👋 About 
 
-Helping companies build serverless applications.
+Helping companies build custom software solutions.
 
 Java | Go | Spring | Angular | AWS | TDD | DDD | Senior Softwar Engineer | Serverless Advocate
 
@@ -8,6 +8,7 @@ Java | Go | Spring | Angular | AWS | TDD | DDD | Senior Softwar Engineer | Serve
 
 
 🌱 Open source contribution:
+* [https://github.com/apache/kafka](Apache Kafka)
 * [https://github.com/elastic/beats](Elastic/Beats)
 * [https://github.com/jenkinsci/jenkins](Jenkins)
 
@@ -21,7 +22,7 @@ Location: EU. Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zag
 <!--
 💻 Stack:
 * Java / JavaScript
-* Spring / Spring Boot / Angular
+* Spring / Spring Boot / TypeScript / Angular 
 * AWS
 
 🔬 Research interest
