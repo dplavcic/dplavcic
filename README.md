@@ -2,11 +2,6 @@
 
 Helping companies build custom software solutions.
 
-Java | Go | Spring | Angular | AWS | TDD | DDD | Senior Softwar Engineer | Serverless Advocate
-
-**Check out [ServerlessJava.io](https://serverlessjava.io/)**, demystifying serverless for enterprise Java developers!
-
-
 🌱 Open source contribution:
 * [https://github.com/apache/kafka](Apache Kafka)
 * [https://github.com/elastic/beats](Elastic/Beats)
