@@ -1,6 +1,6 @@
 ### 👋 About 
 
-Helping companies build custom software solutions.
+JFDI Engineer
 
 🌱 Open source contribution:
 * [https://github.com/apache/kafka](Apache Kafka)
