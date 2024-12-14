@@ -10,7 +10,7 @@ JFDI Engineer
 📫 How to reach me:
 * LinkedIn: [@daliborp](https://linkedin.com/in/dalibor-plavcic)
 * StackOverflow: [@daliborp](https://stackoverflow.com/users/5521421/daliborp)
-* Personal Site: [ServerlessJava.io](https://sererlessjava.io/)
+* Personal Site: [dpsc.tech](https://dpsc.tech/)
 
 Location: EU. Timezone [UTC+1](https://www.timeanddate.com/time/zone/croatia/zagreb)
 
